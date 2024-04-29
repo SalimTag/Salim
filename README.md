@@ -1,4 +1,4 @@
-# StorsterX89
+# SalimTage
 ## 👋  Hello there! My name is Salim Tagemouati! Nice to meet you! 
 
 I am a Computer Science enthusiast. I am passionate about Software Engineering, Machine learning, and problem-solving. I am always looking to learn and improve my skills.

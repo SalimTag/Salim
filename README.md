@@ -1,132 +1,332 @@
-# 🌟 Hi there, I'm Salim Tagemouati
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm **Salim Tagemouati**
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Architecture+Explorer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=120&lines=Full-Stack+Developer+%7C+AI+Engineer;Building+Scalable+Solutions+Since+2021;Transforming+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
   
   <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0_4px_6px_rgba(0,0,0,0.1))](https://www.linkedin.com/in/salim-tagemouati/)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.tagemouati@aui.ma)
-  [![GitHub followers](https://img.shields.io/github/followers/SalimTag?style=for-the-badge&logo=github&color=181717)](https://github.com/SalimTag?tab=followers)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-tagemouati/)
+  [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.tagemouati@aui.ma)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salimtag.github.io/)
+  [![GitHub followers](https://img.shields.io/github/followers/SalimTag?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/SalimTag?tab=followers)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SalimTag&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-success?style=for-the-badge&logo=calendar&logoColor=white)
+  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes!-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 **Mission Statement**
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+> *"Passionate about crafting elegant solutions to complex problems. I believe in writing code that not only works but tells a story - clean, maintainable, and scalable. My goal is to bridge the gap between cutting-edge technology and real-world business needs."*
 
-🎓 **Computer Science Graduate** passionate about creating innovative solutions  
-💻 **Full-Stack Developer** with 3+ years of hands-on experience  
-🤖 **AI Enthusiast** exploring the intersection of technology and intelligence  
-🌍 **Based in Morocco** 🇲🇦, thinking globally  
+---
 
-### 🎯 Currently Focused On:
-- 🔥 Building **scalable microservices** architectures
-- ☁️ Mastering **Kubernetes** and cloud-native technologies  
-- 🤖 Developing **AI-powered applications** with real-world impact
-- 📈 Exploring **system design** for high-traffic applications
+## 🚀 **About Me**
 
-```typescript
-const salim: Developer = {
-  location: "Morocco 🇲🇦",
-  education: "B.Sc. Computer Science",
-  yearsOfExperience: 3,
-  specialization: ["Full-Stack Development", "AI/ML", "Cloud Architecture"],
-  currentlyLearning: ["Kubernetes", "System Design", "Advanced React Patterns"],
-  careerGoal: "Building scalable solutions that make a difference",
-  openToWork: true,
-  passion: "Turning coffee into code ☕→💻"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```javascript
+const salim = {
+    pronouns: "He/Him",
+    location: "Fes, Morocco 🇲🇦",
+    education: {
+        degree: "B.Sc. Computer Science",
+        university: "Al Akhawayn University",
+        graduation: "2025"
+    },
+    currentRole: "Full-Stack Developer & Founder",
+    yearsOfExperience: 3,
+    workingOn: [
+        "Scalable microservices with Spring Boot",
+        "Real-time AI wildfire detection system",
+        "E-commerce platform optimization"
+    ],
+    askMeAbout: ["Web Dev", "AI/ML", "System Design", "Entrepreneurship"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backEnd: ["Spring Boot", "Node.js", "FastAPI", "Microservices"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "Oracle"],
+        devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"],
+        ai_ml: ["TensorFlow", "PyTorch", "YOLOv8", "OpenCV"]
+    },
+    currentGoals: [
+        "🎯 Master Kubernetes orchestration",
+        "📚 Contribute to open-source AI projects",
+        "🌍 Build products that impact 1M+ users"
+    ],
+    funFact: "I can debug code faster than I can explain why it wasn't working! 🐛"
 };
 ```
 
 ---
 
-## 💼 Professional Journey
+## 💼 **Professional Experience**
 
-<div align="left">
+<table>
+<tr>
+<td width="50%">
 
-### 🛩️ **Royal Air Maroc** | ERP Developer Intern
-*Jun 2024 - Aug 2024 | Casablanca, Morocco*
+### ✈️ **Royal Air Maroc**
+**ERP Developer Intern** | *Jun - Aug 2024*
 
-<img src="https://img.shields.io/badge/Impact-500%2B_Users_Daily-success?style=flat-square" /> <img src="https://img.shields.io/badge/Cost_Reduction-15%25-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Impact-500%2B_Daily_Users-FF6B6B?style=flat-square&labelColor=4ECDC4" />
+<img src="https://img.shields.io/badge/Cost_Saved-15%25-00D9FF?style=flat-square&labelColor=FF6B6B" />
 
-- 🔧 Architected and developed ERP interface serving **500+ daily users** across multiple departments
-- 📈 Automated critical workflows, **reducing operational costs by 15%** and improving efficiency
-- 🔌 Integrated SOAP/REST APIs enabling seamless data synchronization between legacy systems
-- 🛠️ **Tech Stack:** Java, Spring Boot, Oracle DB, Jenkins CI/CD, Maven
+- 🏗️ Architected enterprise-grade ERP system
+- ⚡ Reduced operational costs by **15%**
+- 🔗 Integrated SOAP/REST APIs for legacy systems
+- 📊 Served **500+ daily active users**
 
-### 🍯 **Dar Lemlih Apiculture** | Founder & Full-Stack Developer
-*Jan 2022 - Present | Morocco*
+**Tech:** `Java` `Spring Boot` `Oracle` `Jenkins`
 
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Languages-3-blue?style=flat-square" />
+</td>
+<td width="50%">
 
-- 🏗️ Built complete **e-commerce marketplace** from concept to production
-- 💳 Implemented **secure payment processing** with JWT authentication and role-based access
-- 🌍 Developed **multilingual support** (French/Arabic/English) with RTL layout optimization
-- 📊 **Tech Stack:** React, Spring Boot, MySQL, Docker, Stripe API
+### 🍯 **Dar Lemlih Apiculture**
+**Founder & Tech Lead** | *Jan 2022 - Present*
 
-</div>
+<img src="https://img.shields.io/badge/Status-Live_in_Production-4CAF50?style=flat-square&labelColor=FF9800" />
+<img src="https://img.shields.io/badge/Languages-3-2196F3?style=flat-square&labelColor=9C27B0" />
+
+- 🛍️ Built full-scale e-commerce marketplace
+- 💳 Implemented secure payment processing
+- 🌐 Multilingual support (FR/AR/EN)
+- 📈 Growing customer base month-over-month
+
+**Tech:** `React` `Spring Boot` `MySQL` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ **Technical Expertise**
 
-<div align="center">
+<details open>
+<summary><b>📊 Skill Proficiency Matrix</b></summary>
+<br>
 
-### 🔤 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Languages** | Java, Python, TypeScript, JavaScript | ████████████ 95% |
+| **Frontend** | React, Next.js, Tailwind CSS | ████████████ 90% |
+| **Backend** | Spring Boot, Node.js, FastAPI | ████████████ 92% |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis | ████████████ 88% |
+| **Cloud/DevOps** | Docker, Kubernetes, AWS, CI/CD | ████████████ 85% |
+| **AI/ML** | TensorFlow, PyTorch, Computer Vision | ████████████ 80% |
 
-### 🎨 Frontend Development
+</details>
+
+<details>
+<summary><b>🎨 Frontend Arsenal</b></summary>
+<br>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### ⚙️ Backend Development
+</details>
+
+<details>
+<summary><b>⚙️ Backend Powerhouse</b></summary>
+<br>
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</details>
 
-### ☁️ Cloud & DevOps
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🤖 AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</details>
+
+---
+
+## 🏆 **Featured Projects**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🍯 E-Commerce Platform</h3>
+<div align="center">
+  <a href="https://github.com/SalimTag/dar-lemlih-apiculture" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalimTag&repo=dar-lemlih-apiculture&theme=tokyonight&hide_border=true" />
+  </a>
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </p>
+  <p><strong>Full-stack marketplace with secure payments & multilingual support</strong></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔥 AI Wildfire Detection</h3>
+<div align="center">
+  <a href="https://github.com/SalimTag/firedetection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalimTag&repo=firedetection&theme=tokyonight&hide_border=true" />
+  </a>
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  </p>
+  <p><strong>Real-time forest fire detection using computer vision & AI</strong></p>
+</div>
+</td>
+</tr>
+</table>
+
+<h3>🔗 More Projects</h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://salimtag.github.io/)
+[![All Repositories](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalimTag?tab=repositories)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalimTag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimTag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalimTag&theme=tokyonight&hide_border=true" />
+</div>
+
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalimTag&theme=tokyo-night&hide_border=true&area=true" />
+</details>
+
+---
+
+## 🎯 **2025 Goals & Roadmap**
+
+<table>
+<tr>
+<td width="33%">
+
+### Q1 2025 🎯
+- [ ] Graduate with B.Sc. in CS
+- [ ] Master Kubernetes orchestration
+- [ ] Contribute to 5 open-source projects
+- [ ] Launch AI SaaS product
+
+</td>
+<td width="33%">
+
+### Q2 2025 🚀
+- [ ] Achieve AWS Solutions Architect cert
+- [ ] Build microservices at scale
+- [ ] Mentor junior developers
+- [ ] Speak at tech conference
+
+</td>
+<td width="33%">
+
+### Q3-Q4 2025 🌟
+- [ ] Join innovative tech company
+- [ ] Lead engineering team
+- [ ] Impact 1M+ users
+- [ ] Start tech blog/YouTube
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 **Achievements & Certifications**
 
 <div align="center">
 
-| 🍯 **E-Commerce Platform** | 🔥 **Wildfire Detection AI** |
-|:-------------------------:|:----------------------------:|
-| <a href="https://github.com/SalimTag/dar-lemlih-apiculture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SalimTag&repo=dar-lemlih-apiculture&theme=tokyonight&border_radius=10" /></a> | <a href="https://github.com/SalimTag/firedetection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SalimTag&repo=firedetection&theme=tokyonight&border_radius=10" /></a> |
-| **Full-stack marketplace** with secure payments, multilingual support, and modern UI | **AI-powered system** using YOLOv8 for real-time forest fire detection |
-| ![React](https://img.shields.io/badge/-React-61
+![Problem Solver](https://img.shields.io/badge/500%2B_Problems_Solved-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Hackathons](https://img.shields.io/badge/5%2B_Hackathons-Winner-FF6B6B?style=for-the-badge&logo=devpost&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 💡 **Latest Blog Posts & Activity**
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Working on: **AI-powered code review system**
+- 📝 Latest article: **"Microservices vs Monolith: A Practical Guide"**
+- 🎓 Currently learning: **Advanced System Design & Kubernetes**
+- 💬 Ask me about: **React, Spring Boot, or starting a tech business**
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+### 💼 **Open for Opportunities**
+
+I'm actively seeking **Full-Stack Developer** or **Software Engineer** positions where I can contribute to innovative projects and grow with a dynamic team.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-tagemouati/)
+[![Email](https://img.shields.io/badge/Send_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.tagemouati@aui.ma)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/salimtag)
+
+### 📬 **Quick Contact**
+
+```javascript
+const contactMe = {
+    email: "s.tagemouati@aui.ma",
+    linkedin: "linkedin.com/in/salim-tagemouati",
+    location: "Fes, Morocco 🇲🇦",
+    availability: "Immediate",
+    preferredRoles: ["Full-Stack Developer", "Software Engineer", "AI/ML Engineer"],
+    openTo: ["Full-time", "Contract", "Remote", "Relocation"]
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 **"Code is poetry written in logic"** 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+
+<sub>⭐ If you find my work interesting, don't forget to star my repositories!</sub>
+
+</div>

@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Sc. Computer Science** @ Al Akhawayn University (Exchanges: Pisa 🇮🇹, Zurich 🇨🇭, NYC 🇺🇸)  
-- 💻 **Full-Stack Developer & AI Engineer** (React • Spring Boot • FastAPI • TensorFlow)  
+- 💻 **Full-Stack Developer & Data Science ** (React • Spring Boot • FastAPI • TensorFlow)  
 - 🛠️ Passionate about **scalable systems & AI-powered solutions**  
 - 🌍 Projects: ERP systems, AI wildfire detection, E-commerce platforms  
 
